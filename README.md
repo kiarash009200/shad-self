@@ -28,7 +28,7 @@
 ## 📥 نصب
 
 ```bash
-git clone https://github.com/kiarash009200/shad-self.git
+git clone https://github.com/kiarash707/shad-self.git
 cd shad-self
 python3 -m pip install -U aioshad
 python3 shad_self_KIA.py
@@ -126,7 +126,7 @@ Session در پوشه sessions/ ذخیره می‌شود.
 apt update
 apt install -y git python3 python3-venv
 
-git clone https://github.com/kiarash009200/shad-self.git
+git clone https://github.com/kiarash707/shad-self.git
 cd shad-self
 
 python3 -m venv .venv
